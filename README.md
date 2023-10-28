@@ -10,8 +10,11 @@
 
 ## 기능
 * TweenPosition
-  ** GameObject를 
+  * GameObject를 특정 위치까지 이동시킬 수 있습니다.
 * TweenRotation
+  * GameObject를 특정 각도까지 회전시킬 수 있습니다.
 * TweenScale
+  * GameObject를 특정 크기까지 크기를 조절할 수 있습니다.
 * TweenRGBA
+  * (현재까지 지원하는 Component)Text, Image, Sprite, Material를 가진 GameObject의 색상을 바꿀 수 있습니다.
 
