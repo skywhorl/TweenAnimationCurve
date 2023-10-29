@@ -26,7 +26,7 @@
   <br/>
   <br/>
   
-## 사용 방법
+## 사용 방법 - 예시 영상 : <a href="https://www.youtube.com/watch?v=GI9m2eW95qU"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white"/>
 * Repository에 있는 Asset 폴더는 GitHub 페이지 내에서의 Package 열람용이니 'TweenAnimationCurve' Package 파일을 다운로드 하시면 됩니다.
 * Package 파일을 보시면 TweenAnimationCurve 폴더 내에 ExampleScenes와 Scripts 폴더로 각각 예시로 보여주는 Scene과 사용할 수 있는 Script가 존재합니다.
 * Scripts 폴더에서 아래 이미지처럼 TweenPosition, TweenRotation, TweenScale, TweenRGBA 의 Script를 가져다가 사용하실 수 있습니다.
@@ -46,5 +46,5 @@
   <br/>
   <br/>
 
-  ## 예시 영상
-  
+ 코드 및 기타 프로젝트 관련 문의는 아래의 메일로 문의 바랍니다.  
+ skywhorl@naver.com / replica985028@gmail.com
